@@ -1,0 +1,4 @@
+[submodule "libraries/fc"]
+    path = libraries/fc
+    url = https://github.com/thedeex/deex.blockchain-fc.git
+    ignore = dirty
